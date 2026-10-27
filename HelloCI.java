@@ -1,6 +1,6 @@
 public class HelloCI {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins!");
+        System.out.println("Hello, Jenkins! Build updated.");
         System.out.println("Continuous Integration is working!");
     }
 }
